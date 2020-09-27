@@ -86,6 +86,7 @@
       <path value="$PROJECT_DIR$/vendor/symfony/options-resolver" />
       <path value="$PROJECT_DIR$/vendor/symfony/validator" />
       <path value="$PROJECT_DIR$/vendor/symfony/apache-pack" />
+      <path value="$PROJECT_DIR$/vendor/symfony/asset" />
     </include_path>
   </component>
   <component name="ProjectId" id="1i6fVurzAwKviwnFcxLDut0KV8H" />
@@ -108,7 +109,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601232989145</updated>
-      <workItem from="1601232990216" duration="2742000" />
+      <workItem from="1601232990216" duration="3939000" />
     </task>
     <servers />
   </component>
